@@ -1,1 +1,1 @@
-# https-tmv-party-app.ai.studio
+ https://tmv-party-app.ai.studio
